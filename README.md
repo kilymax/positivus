@@ -44,7 +44,7 @@ Adaptive layout using HTML, preprocessor SCSS and a little JS according to the B
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-You can also open an already running application using [Vercel](LINK)
+You can also open an already running application using [Vercel](https://positivus-dusky.vercel.app/)
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
@@ -53,7 +53,7 @@ You can also open an already running application using [Vercel](LINK)
 
 Ilya K - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 
-Project Link: [Positivus](https://github.com/lostie21yo/kropp-fitness)
+Project Link: [Positivus](https://github.com/lostie21yo/positivus)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

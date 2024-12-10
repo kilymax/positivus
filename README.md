@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Adaptive layout using HTML, preprocessor SCSS and a little JS according to the BEM methodology.
+Adaptive layout using HTML and preprocessor SCSS according to the BEM methodology.
 
 <!-- Demo video on YouTube [here](https://www.youtube.com/watch?v=4na8KFVoyZM&list=PL4lVqWiqXeK15HICGgnRiJTThgfftHEyt&index=5) -->
 

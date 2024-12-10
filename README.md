@@ -40,7 +40,6 @@ Adaptive layout using HTML, preprocessor SCSS and a little JS according to the B
 
 * HTML
 * CSS (SCSS)
-* JS
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 

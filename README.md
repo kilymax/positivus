@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lostie21yo/positivus">
-    <img src="images\Logo.svg" alt="Positivus Logo" width="80" >
+  <a href="https://github.com/kilymax/positivus">
+    <img src="images\Logo.svg" alt="Positivus Logo" width="150" >
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 
 Adaptive layout using HTML and preprocessor SCSS according to the BEM methodology.
 
-<!-- Demo video on YouTube [here](https://www.youtube.com/watch?v=4na8KFVoyZM&list=PL4lVqWiqXeK15HICGgnRiJTThgfftHEyt&index=5) -->
+<!-- Demo video on YouTube [here]() -->
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -43,7 +43,7 @@ Adaptive layout using HTML and preprocessor SCSS according to the BEM methodolog
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-You can also open an already running application using [Vercel](https://positivus-dusky.vercel.app/)
+You can also open an already running application using Vercel – [Positivus](https://positivus-dusky.vercel.app/)
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
@@ -52,7 +52,7 @@ You can also open an already running application using [Vercel](https://positivu
 
 Ilya K - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 
-Project Link: [Positivus](https://github.com/lostie21yo/positivus)
+Project Link: [Positivus](https://github.com/kilymax/positivus)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

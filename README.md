@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kilymax/positivus">
-    <img src="images\Logo.svg" alt="Positivus Logo" width="150" >
+    <img src="readme-icon.svg" alt="Positivus Logo" width="150" >
   </a>
 </div>
 

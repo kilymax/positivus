@@ -5,13 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<<<<<<< HEAD
-  <a href="https://github.com/lostie21yo/positivus">
-    <img src="readme-icon.svg" alt="Positivus Logo" width="80" >
-=======
   <a href="https://github.com/kilymax/positivus">
     <img src="images\Logo.svg" alt="Positivus Logo" width="150" >
->>>>>>> 1ca5f330d01ffaaa0a727c03e12cbbe2586480d3
   </a>
 </div>
 

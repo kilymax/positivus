@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lostie21yo/positivus">
-    <img src="images\Logo.svg" alt="Positivus Logo" width="80" >
+    <img src="readme-icon.svg" alt="Positivus Logo" width="80" >
   </a>
 </div>
 
